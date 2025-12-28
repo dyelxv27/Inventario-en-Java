@@ -1,0 +1,15 @@
+K101,Laptop Pro,Computadoras,1250.50
+K102,Mouse Gamer,Accesorios,45.99
+K103,Monitor 4K,Perifericos,350.00
+K104,Teclado Mecanico,Accesorios,89.00
+K105,Disco SSD 1TB,Almacenamiento,110.00
+K106,Memoria RAM 16GB,Componentes,75.50
+K107,Procesador i7,Componentes,420.00
+K108,Tarjeta Grafica,Componentes,650.00
+K109,Camara Web HD,Perifericos,65.00
+K110,Audifonos Pro,Accesorios,120.00
+K111,Cable HDMI,Cables,15.00
+K112,Hub USB-C,Accesorios,35.00
+K113,Silla Oficina,Muebles,210.00
+K114,Escritorio L,Muebles,180.00
+K115,Microfono USB,Audio,95.00
